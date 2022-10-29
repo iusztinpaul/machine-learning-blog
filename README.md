@@ -1,8 +1,8 @@
 # Machine Learning Applications Used Within My Blog
 
-This repository aggregates all the examples that I used within my [Medium blog](https://medium.com/@pauliusztin)
+This repository aggregates the implementation of all the examples that I used within my [Medium blog](https://medium.com/@pauliusztin)
 
-It contains various **machine learning applications and tutorials**.
+It contains various **machine learning and MLOps applications/tutorials**.
 
 Everything is written in **Python**.
 
@@ -12,6 +12,9 @@ Everything is written in **Python**.
 
 # Applications
 
+
+# Licensing
+Everything is licensed under the MIT license. Therefore, please use, share, and play with the code as long as you give credit to the original author.
 
 # Connect
 👋 If you have any questions, suggestions, or want to collaborate with me, **feel free to contact me** 

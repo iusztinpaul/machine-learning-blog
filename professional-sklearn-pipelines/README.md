@@ -1,4 +1,4 @@
-# How to Build Professional Sklearn Pipelines Like a Pro
+# How to Design Professional Sklearn Pipelines Like a Pro
 
 # Table of Contents
 1. [Motivation](#motivation)
@@ -11,9 +11,9 @@
 # 1. Motivation <a name="motivation"></a>
 This tutorial shows how to use *Sklearn Pipelines* at their full capacity by implementing a yearly wheat yield *forecasting model*.
 
-The example shows how to practically compose all the elements Sklearn provides to *build professional machine learning pipelines*.
+The example shows how to practically use all the elements Sklearn provides to *build professional machine learning pipelines*.
 
-It shows how to use the following classes/functions from Sklearn to build a professional machine learning pipeline:
+It shows how to compose the following classes/functions from Sklearn to build a professional machine learning pipeline:
 * [TransformerMixin](https://scikit-learn.org/stable/modules/generated/sklearn.base.TransformerMixin.html)
 * [BaseEstimator](https://scikit-learn.org/stable/modules/generated/sklearn.base.BaseEstimator.html)
 * [FunctionTransformer](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.FunctionTransformer.html)

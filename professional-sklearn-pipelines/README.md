@@ -21,6 +21,8 @@ It shows how to use the following classes/functions from Sklearn to build a prof
 * [FeatureUnion](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.FeatureUnion.html)
 * [TransformedTargetRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.compose.TransformedTargetRegressor.html)
 
+![Pipeline Example](./images/pipeline_example.png)
+
 
 # 2. Installation <a name="installation"></a>
 The code is tested with:
@@ -42,31 +44,34 @@ pip install -r requirements.txt
 We have used the **dataset** [1](#data) provided by [Pangaea](https://doi.pangaea.de/10.1594/PANGAEA.909132), which tracks global yearly yields for various plants from 1981 to 2016.
 
 Download the dataset [here](https://doi.pangaea.de/10.1594/PANGAEA.909132) and unzip it.
-The code expects the data to be in the Sklearn Pipelines tutorial's root folder under `yields`.
+The code expects the data to be in the Sklearn Pipelines tutorial's root folder under a directory named `yields`.
 
-**NOTE:** We found this dataset in this cool [GitHub Repository](https://github.com/awesomedata/awesome-public-datasets#socialnetworks). 
+**NOTE:** We found this dataset in this cool [GitHub Repository](https://github.com/awesomedata/awesome-public-datasets). 
 You can find all sorts of amazing datasets here for various prototypes or tutorials.
 
 # 4. Usage <a name="usage"></a>
 ## Files Structure
 After you download the data the structure of the project should look like this:
 ```text
-├── pipeline.ipynb
+├── images
+├── pipeline_tutorial.ipynb
+├── publish.py
 ├── README.md
 ├── requirements.txt
 └── yields
 ```
 
 ## Run
-All the tutorial is within a single notebook called `pipeline.ipynb`.
+All the tutorial is within a single notebook called `pipeline_tutorial.ipynb`.
 
 Therefore, it is enough to run:
 ```shell
-jupyter notebook pipeline.ipynb
+jupyter notebook pipeline_tutorial.ipynb
 ```
 
 ## 5. Licensing, Authors, Acknowledgements <a name="licensing"></a>
-The code is licensed under the MIT license. I encourage anybody to use and share the code as long as you give credit to the original author. 
+Everything is licensed under the MIT license. Therefore, please use, share, and play with the code as long as you give credit to the original author.
+
 I want to thank Pangaea for its contribution to making the data available. Without their assistance, I would not have been able to train the models.
 
 👋 If you have any questions, suggestions, or want to collaborate with me, feel free to contact me 

@@ -24,10 +24,10 @@ on [LinkedIn](https://www.linkedin.com/in/pauliusztin/) or by email `p.b.iusztin
 
 To get up-to-date content about **ML (tabular data & time series), Computer Vision, MLOps, and freelancing**:
 
-📘 FOLLOW me on [LinkedIn](https://medium.com/@pauliusztin)
+📘 **Follow** me on [LinkedIn](https://medium.com/@pauliusztin)
 
-✉️ Subscribe to my [Medium newsletter](https://pauliusztin.medium.com/subscribe)
+✉️ **Subscribe** to my [Medium newsletter](https://pauliusztin.medium.com/subscribe)
 
 ----
 
-🚀 Support me by joining Medium through my [referral link](https://medium.com/membership/@pauliusztin)
+🚀 **Support me** by joining Medium through my [referral link](https://medium.com/membership/@pauliusztin)

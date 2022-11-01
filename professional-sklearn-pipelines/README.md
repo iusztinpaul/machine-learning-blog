@@ -83,13 +83,13 @@ on [LinkedIn](https://www.linkedin.com/in/pauliusztin/) or by email `p.b.iusztin
 
 To get up-to-date content about **ML (tabular data & time series), Computer Vision, MLOps, and freelancing**:
 
-📘 FOLLOW me on [LinkedIn](https://medium.com/@pauliusztin)
+📘 **Follow** me on [LinkedIn](https://medium.com/@pauliusztin)
 
-✉️ Subscribe to my [Medium newsletter](https://pauliusztin.medium.com/subscribe)
+✉️ **Subscribe** to my [Medium newsletter](https://pauliusztin.medium.com/subscribe)
 
 ----
 
-🚀 Support me by joining Medium through my [referral link](https://medium.com/membership/@pauliusztin)
+🚀 **Support me** by joining Medium through my [referral link](https://medium.com/membership/@pauliusztin)
 
 # 6. Citations <a name="citations"></a>
 [1] <a name="data"></a> Iizumi, Toshichika (2019): Global dataset of historical yields v1.2 and v1.3 aligned version. PANGAEA, https://doi.org/10.1594/PANGAEA.909132, Supplement to: Iizumi, Toshichika; Sakai, T (2020): The global dataset of historical yields for major crops 1981–2016. Scientific Data, 7(1), https://doi.org/10.1038/s41597-020-0433-7

@@ -17,13 +17,17 @@ Everything is written in **Python**.
 Everything is licensed under the MIT license. Therefore, please use, share, and play with the code as long as you give credit to the original author.
 
 # Let's Connect
-👋 If you have any questions, suggestions, or want to collaborate with me, **feel free to contact me** 
-at `p.b.iusztin@gmail.com` or to message me on [LinkedIn](https://www.linkedin.com/in/pauliusztin/).
+👋 If we share any interest and want to discuss this further, please contact me
+on [LinkedIn](https://www.linkedin.com/in/pauliusztin/) or by email `p.b.iusztin@gmail.com`.
 
-For more similar content about **machine learning, MLOps, and freelancing** 👇
+----
 
-📘 FOLLOW me on [LinkedIn](https://medium.com/@pauliusztin) 
+To get up-to-date content about **ML (tabular data & time series), Computer Vision, MLOps, and freelancing**:
 
-🖋️ FOLLOW me on [Medium](https://medium.com/@pauliusztin)
+📘 FOLLOW me on [LinkedIn](https://medium.com/@pauliusztin)
 
-✉️ SUBSCRIBE to my [newsletter](https://pauliusztin.medium.com/subscribe)
+✉️ Subscribe to my [Medium newsletter](https://pauliusztin.medium.com/subscribe)
+
+----
+
+🚀 Support me by joining Medium through my [referral link](https://medium.com/membership/@pauliusztin)

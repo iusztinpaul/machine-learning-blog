@@ -30,4 +30,4 @@ To get up-to-date content about **ML (tabular data & time series), Computer Visi
 
 ----
 
-🚀 **Support me** by joining Medium through my [referral link](https://medium.com/membership/@pauliusztin)
+🚀 **Support me** by joining Medium through my [referral link](https://medium.com/membership/@pauliusztin).

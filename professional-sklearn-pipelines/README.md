@@ -11,11 +11,11 @@ Tutorial on how to develop real-world scalable and modular Scikit pipelines by b
 
 # 1. Motivation <a name="motivation"></a>
 This article will teach you how and when to use all the advanced tools from the Sklearn Pipelines ecosystem to build custom, scalable, and modular machine learning models that can easily be deployed in production.
-<br/>
+<br/><br/>
 In isolation, there is much content about different components from the Sklearn Pipelines toolbox. I am writing this article because it is precious to see how all those components work together into a single, more complex system.
-<br/>
+<br/><br/>
 As an example, we will build a forecasting model to predict the following year's global mean wheat yield.
-<br/>
+<br/><br/>
 I will use a concrete example and show you how and when to use the following components:
 * [TransformerMixin](https://scikit-learn.org/stable/modules/generated/sklearn.base.TransformerMixin.html)
 * [BaseEstimator](https://scikit-learn.org/stable/modules/generated/sklearn.base.BaseEstimator.html)

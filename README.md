@@ -7,7 +7,7 @@ It contains various **machine learning and MLOps applications/tutorials**.
 Everything is written in **Python**.
 
 # Tutorials
-1. [How to Build Professional Sklearn Pipelines Like a Pro](./professional-sklearn-pipelines)
+1. [How to Quickly Design Advanced Sklearn Pipelines](./professional-sklearn-pipelines)
 
 
 # Applications

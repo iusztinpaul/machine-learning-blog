@@ -1,4 +1,5 @@
-# How to Design Professional Sklearn Pipelines Like a Pro
+# How to Quickly Design Advanced Sklearn Pipelines
+Tutorial on how to develop real-world scalable and modular Scikit pipelines by building a yearly wheat yield forecasting model.
 
 # Table of Contents
 1. [Motivation](#motivation)
@@ -9,11 +10,13 @@
 6. [Citations](#citations)
 
 # 1. Motivation <a name="motivation"></a>
-This tutorial shows how to use *Sklearn Pipelines* at their full capacity by implementing a yearly wheat yield *forecasting model*.
-
-The example shows how to practically use all the elements Sklearn provides to *build professional machine learning pipelines*.
-
-It shows how to compose the following classes/functions from Sklearn to build a professional machine learning pipeline:
+This article will teach you how and when to use all the advanced tools from the Sklearn Pipelines ecosystem to build custom, scalable, and modular machine learning models that can easily be deployed in production.
+<br/>
+In isolation, there is much content about different components from the Sklearn Pipelines toolbox. I am writing this article because it is precious to see how all those components work together into a single, more complex system.
+<br/>
+As an example, we will build a forecasting model to predict the following year's global mean wheat yield.
+<br/>
+I will use a concrete example and show you how and when to use the following components:
 * [TransformerMixin](https://scikit-learn.org/stable/modules/generated/sklearn.base.TransformerMixin.html)
 * [BaseEstimator](https://scikit-learn.org/stable/modules/generated/sklearn.base.BaseEstimator.html)
 * [FunctionTransformer](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.FunctionTransformer.html)

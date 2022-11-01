@@ -16,7 +16,7 @@ In isolation, there is much content about different components from the Sklearn 
 <br/><br/>
 As an example, we will build a forecasting model to predict the following year's global mean wheat yield.
 <br/><br/>
-I will use a concrete example and show you how and when to use the following components:
+I will show you how and when to use the following components:
 * [TransformerMixin](https://scikit-learn.org/stable/modules/generated/sklearn.base.TransformerMixin.html)
 * [BaseEstimator](https://scikit-learn.org/stable/modules/generated/sklearn.base.BaseEstimator.html)
 * [FunctionTransformer](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.FunctionTransformer.html)

@@ -1,6 +1,8 @@
 # How to Quickly Design Advanced Sklearn Pipelines
 Tutorial on how to develop real-world scalable and modular Scikit pipelines by building a yearly wheat yield forecasting model.
 
+👉 [Link to the Medium Article.](https://towardsdatascience.com/how-to-quickly-design-advanced-sklearn-pipelines-3cc97b59ce16)
+
 # Table of Contents
 1. [Motivation](#motivation)
 2. [Installation](#installation)

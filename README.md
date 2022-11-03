@@ -7,7 +7,7 @@ It contains various **machine learning and MLOps applications/tutorials**.
 Everything is written in **Python**.
 
 # Tutorials
-1. [How to Quickly Design Advanced Sklearn Pipelines](./professional-sklearn-pipelines) [Article](https://towardsdatascience.com/how-to-quickly-design-advanced-sklearn-pipelines-3cc97b59ce16)
+1. [How to Quickly Design Advanced Sklearn Pipelines](./professional-sklearn-pipelines) - [Article Link](https://towardsdatascience.com/how-to-quickly-design-advanced-sklearn-pipelines-3cc97b59ce16)
 
 
 # Applications

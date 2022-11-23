@@ -11,7 +11,7 @@ jtm.publish(
     license="all-rights-reserved",
     canonical_url=None,
     chrome_path=None,
-    save_markdown=False,
+    save_markdown=True,
     table_conversion="chrome",
     gistify=True,
     gist_threshold=5

@@ -1,7 +1,7 @@
 import jupyter_to_medium as jtm
 
 jtm.publish(
-    "data_integrity_applied_in_computer_vision.ipynb",
+    "data_integrity.ipynb",
     integration_token=None,
     pub_name=None,
     title="Check for Data Integrity in Computer Vision Datasets",

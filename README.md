@@ -8,6 +8,7 @@ Everything is written in **Python**.
 
 # Tutorials
 1. [How to Quickly Design Advanced Sklearn Pipelines](./professional-sklearn-pipelines) - [Article Link](https://towardsdatascience.com/how-to-quickly-design-advanced-sklearn-pipelines-3cc97b59ce16)
+2. [Master Data Integrity to Clean Your Computer Vision Datasets](./master-data-integrity-clean-computer-vision-datasets/) - [Article Link]()
 
 
 # Applications

@@ -11,6 +11,8 @@ Tutorial on how to develop real-world scalable and modular Scikit pipelines by b
 5. [Licensing, Authors, Acknowledgements](#licensing)
 6. [Citations](#citations)
 
+-----
+
 # 1. Motivation <a name="motivation"></a>
 This article will teach you how and when to use all the advanced tools from the Sklearn Pipelines ecosystem to build custom, scalable, and modular machine learning models that can easily be deployed in production.
 <br/><br/>
@@ -67,7 +69,7 @@ After you download the data the structure of the project should look like this:
 ```
 
 ## Run
-All the tutorial is within a single notebook called `pipeline_tutorial.ipynb`.
+Everything is within a single notebook called `pipeline_tutorial.ipynb`.
 
 Therefore, it is enough to run:
 ```shell

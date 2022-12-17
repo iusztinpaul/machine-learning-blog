@@ -49,7 +49,9 @@ We will be working on a video of the most precious thing in my house, my cat.
 
 [Download video here](https://drive.google.com/file/d/16VgM1QwSIKIWPVkgLJqmHPOUx0GJmFfD/view?usp=share_link).
 
-Place it in the root directory of the tutorial.
+After you download it, place it in the root directory of the tutorial.
+
+As a general idea, this notebook should work with any video because we are using unsupervised methods.
 
 ![data](media/felix.gif)
 

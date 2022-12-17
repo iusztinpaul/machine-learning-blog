@@ -1,0 +1,8 @@
+.cache
+.sentry-native
+analytics*
+components
+extracted*
+stats
+outliers.html
+video.mp4

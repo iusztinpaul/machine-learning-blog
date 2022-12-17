@@ -49,7 +49,9 @@ We will be working on a video of the most precious thing in my house, my cat.
 
 [Download video here](https://drive.google.com/file/d/16VgM1QwSIKIWPVkgLJqmHPOUx0GJmFfD/view?usp=share_link).
 
-![data](felix.gif)
+Place it in the root directory of the tutorial.
+
+![data](media/felix.gif)
 
 
 # 4. Usage <a name="usage"></a>

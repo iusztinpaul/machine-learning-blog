@@ -11,9 +11,6 @@ Everything is written in **Python**.
 2. [Master Data Integrity to Clean Your Computer Vision Datasets](./master-data-integrity-clean-computer-vision-datasets/) - [Article Link](https://medium.com/towards-data-science/master-data-integrity-to-clean-your-computer-vision-datasets-df432cf9e596)
 
 
-# Applications
-
-
 # Licensing
 Everything is licensed under the MIT license. Therefore, please use, share, and play with the code as long as you give credit to the original author.
 

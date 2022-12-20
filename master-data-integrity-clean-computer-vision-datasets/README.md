@@ -3,7 +3,7 @@
 
 Tutorial on how to clean, visualize and understand real-world Computer Vision datasets.
 
-👉 [Link to the Medium Article.](https://towardsdatascience.com/how-to-quickly-design-advanced-sklearn-pipelines-3cc97b59ce16)
+👉 [Link to the Medium Article.](https://medium.com/towards-data-science/master-data-integrity-to-clean-your-computer-vision-datasets-df432cf9e596)
 
 # Table of Contents
 1. [Motivation](#motivation)

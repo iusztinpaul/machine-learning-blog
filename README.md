@@ -1,6 +1,6 @@
 # Machine Learning Applications Used Within My Blog
 
-This repository aggregates the implementation of all the examples that I used within my [Medium blog](https://medium.com/@pauliusztin)
+This repository aggregates the implementation of all the examples that I used within my [Medium blog](https://medium.com/@pauliusztin).
 
 It contains various **machine learning and MLOps applications/tutorials**.
 
